@@ -20,7 +20,7 @@ The number of points each setting is worth, if any, is listed on the Calculator 
 
 The total number of points among all the options is fixed depending on the World State; there are exactly 150 Mystery Points to be allocated for seeds without entrance shuffle, 80 for seeds with entrance shuffle, and 50 for seeds involving OHKO.
 
-This Calculator features an ongoing display of the amount of Mystery Points yet to be allocated -- that is, the difference between the total number of points (150 for non-entrance, etc.) and the total number of points from all the settings options that have been selected.
+This Calculator features an ongoing display of the amount of Mystery Points yet to be allocated -- that is, the difference between the total number of points (150 for non-entrance, etc.) and the sum of the points from all the other settings options that have been selected.
 
 The ongoing point total display can be useful as a deduction tool to help make more informed routing decisions during ALttPR gameplay.
 
