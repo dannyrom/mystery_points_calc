@@ -6,7 +6,7 @@ This is a tracker for use during A Link to the Past Randomizer mystery seeds. In
 
 This Calculator has buttons that correspond to the various possible settings options, so that as information about the seed is revealed, a runner can track those settings for reference purposes.
 
-The World State options at the top of the tracker determine some settings options; some settings options are only applicable to entrance seeds, and others are only applicable to non-entrance seeds.
+The World State options at the top of the tracker determine certain settings options; some settings options are only applicable to entrance seeds, and others are only applicable to non-entrance seeds, though most settings options apply to all seeds.
 
 When a World State option is selected, inapplicable settings options will be hidden from the tracker.
 
