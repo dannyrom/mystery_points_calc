@@ -28,6 +28,6 @@ The ongoing point total display can be useful as a deduction tool to help make m
 
 If the World State option is changed mid-run, settings options that are inapplicable for the current World State will not affect the point total even if they were previously selected.
 
-The Starting Boots option works backwards from all the other starting item options; starting *without* the boots in non-entrance shuffle seeds is worth 20 points, and starting *with* the boots is worth 0 points.
+The Starting Boots option from season 17 works backwards from all the other starting item options; starting *without* the boots in non-entrance shuffle seeds is worth 20 points, and starting *with* the boots is worth 0 points.
 
 Starting without the boots has no effect on seeds with entrance shuffle (that setting is not applicable since it is currently impossible for entrance shuffle seeds to have any starting item other than assured sword).
